@@ -18,7 +18,6 @@ class Person {
     }
 }
 
-
 abstract class House {
     protected door = false;
     private tenants: Person[] = []
